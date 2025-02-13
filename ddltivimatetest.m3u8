@@ -1,0 +1,112 @@
+#EXTM3U url-tvg="https://www.open-epg.com/generate/6DSj45zB9J.xml"
+#EXTINF:-1 group-title="Canada" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-name="CTV 2",CTV 2
+https://ddh2new.iosplayer.ru/ddh2/premium838/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada" tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-name="CTV",CTV
+https://ddh2new.iosplayer.ru/ddh2/premium602/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada" tvg-id="CBC (CBLT) Toronto, ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" tvg-name="CBC",CBC
+https://dokko1new.iosplayer.ru/dokko1/premium832/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="Citytv",Citytv
+https://ddh2new.iosplayer.ru/ddh2/premium831/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada" tvg-id="Global (CIII-DT-41) Toronto.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" tvg-name="Global",Global
+https://dokko1new.iosplayer.ru/dokko1/premium836/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="RDS (Ru00e9seau des sports).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" tvg-name="RDS",RDS
+https://dokko1new.iosplayer.ru/dokko1/premium839/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="RDS 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-2-ca.png" tvg-name="RDS 2",RDS 2
+https://dokko1new.iosplayer.ru/dokko1/premium840/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="RDS Info.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-info-ca.png" tvg-name="RDS Info",RDS Info
+https://dokko1new.iosplayer.ru/dokko1/premium841/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet 360.ca" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" tvg-name="Sportsnet 360",Sportsnet 360
+https://zekonew.iosplayer.ru/zeko/premium409/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet (West).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" tvg-name="Sportsnet West",Sportsnet West
+https://windnew.iosplayer.ru/wind/premium407/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet (East).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-name="Sportsnet East",Sportsnet East
+https://windnew.iosplayer.ru/wind/premium408/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet (Ontario).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" tvg-name="Sportsnet Ontario",Sportsnet Ontario
+https://windnew.iosplayer.ru/wind/premium406/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet One.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" tvg-name="Sportsnet One",Sportsnet One
+https://zekonew.iosplayer.ru/zeko/premium411/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet World.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" tvg-name="Sportsnet World",Sportsnet World
+https://windnew.iosplayer.ru/wind/premium410/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" tvg-name="TSN1",TSN1
+https://zekonew.iosplayer.ru/zeko/premium111/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" tvg-name="TSN2",TSN2
+https://zekonew.iosplayer.ru/zeko/premium112/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" tvg-name="TSN3",TSN3
+https://zekonew.iosplayer.ru/zeko/premium113/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" tvg-name="TSN4",TSN4
+https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" tvg-name="TSN5",TSN5
+https://zekonew.iosplayer.ru/zeko/premium115/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="AandE Network (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" tvg-name="A&E",A&E
+https://zekonew.iosplayer.ru/zeko/premium302/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment)" tvg-id="ABC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-8-wfaa-us.png" tvg-name="ABC (WFAA)",ABC (WFAA)
+https://zekonew.iosplayer.ru/zeko/premium51/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="AMC (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" tvg-name="AMC",AMC
+https://ddh2new.iosplayer.ru/ddh2/premium303/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="Animal Planet (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
+https://ddh2new.iosplayer.ru/ddh2/premium304/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="AXS.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" tvg-name="AXS TV",AXS TV
+https://ddh2new.iosplayer.ru/ddh2/premium742/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA News" tvg-id="BBC America - East (122).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" tvg-name="BBC America (BBCA)",BBC America (BBCA)
+https://ddh2new.iosplayer.ru/ddh2/premium305/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="BET - Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" tvg-name="BET",BET
+https://zekonew.iosplayer.ru/zeko/premium305/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Kids" tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" tvg-name="Boomerang",Boomerang
+https://dokko1new.iosplayer.ru/dokko1/premium648/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="Bravo (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" tvg-name="Bravo",Bravo
+https://ddh2new.iosplayer.ru/ddh2/premium307/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Kids" tvg-id="Cartoon Network (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" tvg-name="Cartoon Network",Cartoon Network
+https://ddh2new.iosplayer.ru/ddh2/premium339/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="WCBS.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBSNY",CBSNY
+https://zekonew.iosplayer.ru/zeko/premium767/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" tvg-name="CMT",CMT
+https://dokko1new.iosplayer.ru/dokko1/premium647/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA News" tvg-id="CNBC USA (216).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" tvg-name="CNBC",CNBC
+https://zekonew.iosplayer.ru/zeko/premium309/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA News" tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-name="CNN",CNN
+https://ddh2new.iosplayer.ru/ddh2/premium345/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="The Cooking Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png" tvg-name="Cooking Channel",Cooking Channel
+https://dokko1new.iosplayer.ru/dokko1/premium697/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Movies" tvg-id="Cinemax.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="Cinemax",Cinemax
+https://zekonew.iosplayer.ru/zeko/premium374/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="The Discovery Channel (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
+https://zekonew.iosplayer.ru/zeko/premium313/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Kids" tvg-id="Discovery Family Channel HDTV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" tvg-name="Discovery Family",Discovery Family
+https://dokko1new.iosplayer.ru/dokko1/premium657/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="Discovery Life Channel in HDTV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" tvg-name="Discovery Life Channel",Discovery Life Channel
+https://zekonew.iosplayer.ru/zeko/premium311/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Kids" tvg-id="Disney Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
+https://zekonew.iosplayer.ru/zeko/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Kids" tvg-id="Disney Junior.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" tvg-name="Disney JR",Disney JR
+https://ddh2new.iosplayer.ru/ddh2/premium652/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="Kids)" tvg-id="Disney XD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
+https://zekonew.iosplayer.ru/zeko/premium314/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA Entertainment" tvg-id="E! Entertainment Television (East).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
+https://zekonew.iosplayer.ru/zeko/premium315/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="UK" tvg-id="E4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" tvg-name="E4 Channel",E4 Channel
+https://ddy6new.iosplayer.ru/ddy6/premium363/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+EXTINF:-1 group-title="USA SPORTS" tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-name="ESPN",ESPN
+https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA SPORTS" tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" tvg-name="ESPN 2",ESPN 2
+https://windnew.iosplayer.ru/wind/premium45/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA SPORTS" tvg-id="ESPN Deportes (3113).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" tvg-name="ESPN Deportes",ESPN Deportes
+https://ddh2new.iosplayer.ru/ddh2/premium375/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA SPORTS" tvg-id="ESPN News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" tvg-name="ESPNews",ESPNews
+https://ddh2new.iosplayer.ru/ddh2/premium288/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="USA SPORTS" tvg-id="ESPN U (605).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" tvg-name="ESPNU",ESPNU
+https://zekonew.iosplayer.ru/zeko/premium316/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport 1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" tvg-name="EuroSport 1",EuroSport 1
+https://windnew.iosplayer.ru/wind/premium41/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport 2.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" tvg-name="EuroSport 2",EuroSport 2
+https://windnew.iosplayer.ru/wind/premium42/mono.m3u8|Referer=https://newembedplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://newembedplay.xyz
+
+
+
+
+
+
+
+
+
+
+
