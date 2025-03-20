@@ -58,13 +58,27 @@ https://windnew.iosplayer.ru/wind/premium410/mono.m3u8|Referer=https://quest4pla
 
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" tvg-name="TSN1",TSN1
 https://zekonew.iosplayer.ru/zeko/premium111/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://pkpakiplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" tvg-name="TSN1 (Source 2)",TSN1 (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayerTSN_1_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" tvg-name="TSN2",TSN2
 https://zekonew.iosplayer.ru/zeko/premium112/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://pkpakiplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" tvg-name="TSN2 (Source 2)",TSN2 (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayerTSN_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" tvg-name="TSN3",TSN3
 https://zekonew.iosplayer.ru/zeko/premium113/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://pkpakiplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" tvg-name="TSN3 (Source 2)",TSN3 (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayerTSN_3_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" tvg-name="TSN4",TSN4
 https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8|Referer=https://pkpakiplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://pkpakiplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" tvg-name="TSN4 (Source 2)",TSN4 (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayerTSN_4_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" tvg-name="TSN5",TSN5
+https://zekonew.koskoros.ru/zeko/premium115/mono.m3u8|Referer=https://dokoplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://dokoplay.xyz
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" tvg-name="TSN5 (Source 2)",TSN5 (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/eplayerTSN_5_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
 #EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" tvg-name="TVA Sports",TVA SPORTS
 https://dokko1new.iosplayer.ru/dokko1/premium833/mono.m3u8|Referer=https://quest4play.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://quest4play.xyz
 #EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
