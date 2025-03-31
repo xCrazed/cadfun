@@ -94,6 +94,13 @@ https://dokko1new.iosplayer.ru/dokko1/premium833/mono.m3u8|Referer=https://quest
 #EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
 https://dokko1new.iosplayer.ru/dokko1/premium834/mono.m3u8|Referer=https://quest4play.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://quest4play.xyz
 
+#EXTINF:-1 group-title="USA" tvg-id="NBC (KNTV) San Francisco, CA (3).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" tvg-name="NBC (KNBC)",NBC (KNBC)
+https://windnew.koskoros.ru/wind/premium53/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+#EXTINF:-1 group-title="USA" tvg-id="HBO - Eastern Feed(802).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO",HBO
+https://zekonew.koskoros.ru/zeko/premium321/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+#EXTINF:-1 group-title="USA" tvg-id="HBO - Eastern Feed(802).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO (Source 2)",HBO (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/ustvhbo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
 #EXTINF:-1 group-title="USA Sports" tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
 https://ddy6new.iosplayer.ru/ddy6/premium756/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
 #EXTINF:-1 group-title="USA Sports" tvg-id="Golf Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" tvg-name="GOLF Channel",GOLF Channel
@@ -103,12 +110,7 @@ https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8|Referer=https://dokoplay.xyz/
 #EXTINF:-1 group-title="USA Sports" tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" tvg-name="TUDN (Source 2)",TUDN (Source 2)
 https://windnew.koskoros.ru/wind/premium66/mono.m3u8|Referer=https://topembed.pw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 
-#EXTINF:-1 group-title="USA" tvg-id="NBC (KNTV) San Francisco, CA (3).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" tvg-name="NBC (KNBC)",NBC (KNBC)
-https://windnew.koskoros.ru/wind/premium53/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
-#EXTINF:-1 group-title="USA" tvg-id="HBO - Eastern Feed(802).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO",HBO
-https://zekonew.koskoros.ru/zeko/premium321/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
-#EXTINF:-1 group-title="USA" tvg-id="HBO - Eastern Feed(802).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO (Source 2)",HBO (Source 2)
-https://nix1-dc4new.koskoros.ru/nix1-dc4/ustvhbo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
+
 
 
 
