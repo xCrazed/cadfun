@@ -59,7 +59,7 @@ https://wikinew.koskoros.ru/wiki/sportsneteast/mono.m3u8|Referer=https://topembe
 https://windnew.koskoros.ru/wind/premium406/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
 
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet One.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" tvg-name="Sportsnet One",Sportsnet One
-https://windnew.koskoros.ru/wind/premium411/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+https://zekonew.koskoros.ru/zeko/premium411/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="Sportsnet One.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" tvg-name="Sportsnet One (Source 2)",Sportsnet One (Source 2)
 https://wikinew.koskoros.ru/wiki/primasportsnetone/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 
@@ -103,11 +103,12 @@ https://top2new.koskoros.ru/top2/tudnusa/mono.m3u8|Referer=https://dokoplay.xyz/
 #EXTINF:-1 group-title="USA Sports" tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" tvg-name="TUDN (Source 2)",TUDN (Source 2)
 https://windnew.koskoros.ru/wind/premium66/mono.m3u8|Referer=https://topembed.pw|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 
-
-
-
-
-
+#EXTINF:-1 group-title="USA Channels" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" tvg-name="NBC (KNBC)",NBC (KNBC)
+https://windnew.koskoros.ru/wind/premium53/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+#EXTINF:-1 group-title="USA Channels" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO",HBO
+https://zekonew.koskoros.ru/zeko/premium321/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+#EXTINF:-1 group-title="USA Channels" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO (Source 2)",HBO (Source 2)
+https://nix1-dc4new.koskoros.ru/nix1-dc4/ustvhbo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 
 
 
