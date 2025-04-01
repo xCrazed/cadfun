@@ -75,8 +75,6 @@ https://x4new.newkso.ru/x4/eplayerTSN_1_HD/mono.m3u8|Referer=https://topembed.pw
 https://zekonew.newkso.ru/zeko/premium112/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" tvg-name="TSN2 (Source 2)",TSN2 (Source 2)
 https://x4new.newkso.ru/x4/eplayerTSN_2_HD/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
-
-
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" tvg-name="TSN3",TSN3
 https://zekonew.newkso.ru/zeko/premium113/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" tvg-name="TSN3 (Source 2)",TSN3 (Source 2)
@@ -92,8 +90,6 @@ https://x4new.newkso.ru/x4/eplayerTSN_5_HD/mono.m3u8|Referer=https://topembed.pw
 
 #EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" tvg-name="TVA Sports",TVA SPORTS
 https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8|Referer=https://quest4play.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://quest4play.xyz
-	
-
 #EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
 https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8|Referer=https://quest4play.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://quest4play.xyz
 
@@ -105,7 +101,8 @@ https://zekonew.newkso.ru/zeko/premium321/mono.m3u8|Referer=https://webxzplay.cf
 https://x4new.newkso.ru/x4/ustvhbo/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://topembed.pw
 
 #EXTINF:-1 group-title="USA Sports" tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
-https://ddy6new.iosplayer.ru/ddy6/premium756/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
+
 
 #EXTINF:-1 group-title="USA Sports" tvg-id="Golf Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" tvg-name="GOLF Channel",GOLF Channel
 https://zekonew.newkso.ru/zeko/premium318/mono.m3u8|Referer=https://webxzplay.cfd/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/132.0|Origin=https://webxzplay.cfd
