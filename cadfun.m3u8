@@ -20,12 +20,9 @@ https://jmp2.uk/sam-CA1400004AE.m3u8
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="ICI (CBVT) Quebec, QC - Digital.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" tvg-name="Ici Télé (source 2)",Ici Radio-Canada Télé (source 2)
 https://dai.google.com/linear/hls/event/ixE_JVvSSCWyxU7eXJoV-A/master.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Canada" tvg-id="RDI (News).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ici-rdi-ca.png" tvg-name="ICI RDI",ICI RDI 
 https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+
 #EXTINF:-1 group-title="Canada" tvg-id="RDS Info.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20250121T095226SQUARE.png" tvg-name="Radio-Canada INFO",Radio-Canada INFO
 https://jmp2.uk/sam-CABC2300010E4.m3u8
 #EXTINF:-1 group-title="Canada" group tvg-id="62cbef9ebb857100072fc187" tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" tvg-name="Global News National", Global News National
@@ -67,9 +64,9 @@ https://zekonew.newkso.ru/zeko/premium114/mono.m3u8|Referer=https://alldownplay.
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" tvg-name="TSN5",TSN5
 https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 
-#EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" tvg-name="TVA Sports",TVA SPORTS
+#EXTINF:-1, group-title="Canada SPORTS" tvg-id="TVA Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" tvg-name="TVA Sports",TVA SPORTS
 https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
-#EXTINF:-1,group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
+#EXTINF:-1, group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
 https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 
 #EXTINF:-1 group-title="USA Sports" tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
