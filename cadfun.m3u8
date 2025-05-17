@@ -64,9 +64,9 @@ https://zekonew.newkso.ru/zeko/premium114/mono.m3u8|Referer=https://alldownplay.
 #EXTINF:-1 group-title="Canada SPORTS" tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" tvg-name="TSN5",TSN5
 https://zekonew.newkso.ru/zeko/premium115/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 
-#EXTINF:-1, group-title="Canada SPORTS" tvg-id="TVA Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" tvg-name="TVA Sports",TVA SPORTS
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TVA Sports.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tva-sports-ca.png" tvg-name="TVA Sports",TVA SPORTS
 https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
-#EXTINF:-1, group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
+#EXTINF:-1 group-title="Canada SPORTS" tvg-id="TVA Sports 2.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada//tva-sports-2-ca.png" tvg-name="TVA Sports 2",TVA SPORTS 2
 https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 
 #EXTINF:-1 group-title="USA Sports" tvg-id="FOX Soccer Plus HD (1653).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
