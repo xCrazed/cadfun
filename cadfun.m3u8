@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://bit.ly/CADEPG"
 #EXTINF:-1 group-title="Canada" tvg-id="CBC (CBLT) Toronto, ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" tvg-name="CBC",CBC
 https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
-
 #EXTINF:-1 group-title="Canada" tvg-id="CBC (CBOT) Ottawa, ON.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" tvg-name="CBC Ottawa",CBC Ottawa
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="CBC News Network.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000149D_20250204T014715SQUARE.png" tvg-name="CBC News Ottawa", CBC News Ottawa
@@ -11,9 +10,9 @@ https://jmp2.uk/sam-CABC2300009KD.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="CTV2 Barrie, ON (CKVR).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-name="CTV2 East",CTV2 Ottawa
 https://nfsnew.koskoros.ru/nfs/premium838/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 #EXTINF:-1 group-title="Canada" tvg-id="CTV (CFCN) Calgary, AB.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-name="CTV Calgary",CTV Calgary
-https://zekonew.koskoros.ru/zeko/premium602/mono.m3u8|Referer=https://alldownplay.xyz|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
+https://zekonew.newkso.ru/zeko/premium602/mono.m3u8|Referer=https://alldownplay.xyz|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 #EXTINF:-1 group-title="Canada" tvg-id="CTV Vancouver, BC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-name="CTV2 West",CTV2 Vancouver
-https://dokko1new.newkso.ru/dokko1/premium836/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
+https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8|Referer=https://alldownplay.xyz/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0|Origin=https://alldownplay.xyz
 #EXTINF:-1 group-title="Canada" tvg-id="CTV News Channel HD.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" tvg-name="CTV News",CTV News
 https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="ICI (CBVT) Quebec, QC - Digital.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" tvg-name=Ici Télé,Ici Radio-Canada Télé 
