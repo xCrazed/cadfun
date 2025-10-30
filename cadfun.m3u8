@@ -2,11 +2,11 @@
 #EXTINF:-1 group-title="Canada" tvg-id="CBC (CBOT) Ottawa, ON.ca" tvg-logo="https://i.imgur.com/v3DJUa8.png" tvg-name="CBC Ottawa",CBC Ottawa
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="CBC News Network.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA46000149D_20250204T014715SQUARE.png" tvg-name="CBC News Ottawa", CBC News Ottawa
-https://jmp2.uk/sam-CA46000149D.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="CBC News Network.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20250121T094932SQUARE.png" tvg-name="CBC News",CBC News Canada
-https://jmp2.uk/sam-CABC2300009KD.m3u8
-#EXTINF:-1 group-title="Canada" tvg-id="CTV News Channel HD.ca" tvg-logo="https://i.imgur.com/pRscvrp.png" tvg-name="CTV News",CTV News
-https://jmp2.uk/sam-CA1400004AE.m3u8
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+
+#EXTINF:-1 group-title="Canada" tvg-id="City News Toronto.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="CityNews Toronto",CityNews Toronto
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+
 #EXTINF:-1 group-title="Canada" tvg-id="ICI (CBVT) Quebec, QC - Digital.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" tvg-name=Ici Télé,Ici Radio-Canada Télé 
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="ICI (CBVT) Quebec, QC - Digital.ca" tvg-logo="https://i.imgur.com/373Y8Py.png" tvg-name="Ici Télé (source 2)",Ici Radio-Canada Télé (source 2)
@@ -16,9 +16,10 @@ https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="RDS Info.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300010E4_20250121T095226SQUARE.png" tvg-name="Radio-Canada INFO",Radio-Canada INFO
 https://jmp2.uk/sam-CABC2300010E4.m3u8
 #EXTINF:-1 group-title="Canada" group tvg-id="62cbef9ebb857100072fc187" tvg-logo="https://images.pluto.tv/channels/62cbef9ebb857100072fc187/colorLogoPNG.png" tvg-name="Global News National", Global News National
-https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
 #EXTINF:-1 group-title="Canada" tvg-id="Tele-Quebec (CIVM) Montreal.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" tvg-name="Télé-Québec",Télé-Québec
-https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="TVA (CFCM) Quu00e9bec HD.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png" tvg-name="TVA",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
+
 
